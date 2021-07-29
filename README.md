@@ -1,5 +1,5 @@
 # Arduino Piano/Keyboard
-A piano/keyboard made with an Arduino and capacitive-touch sensors for the course Laboratório de Transdutores at UFSC.
+A piano/keyboard made with an Arduino, a passive buzzer and capacitive-touch sensors for the course Laboratório de Transdutores at UFSC.
 
 ## How it works?
 The keys are capacitive-touch sensors made of strips of aluminum foil, connected to the Arduino with jumpers.
